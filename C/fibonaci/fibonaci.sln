@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fibonaci", "fibonaci\fibonaci.vcxproj", "{9BD8A3FC-E9BD-4D2A-9EE6-1D47CF020577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD8A3FC-E9BD-4D2A-9EE6-1D47CF020577}.Debug|x64.ActiveCfg = Debug|x64
+		{9BD8A3FC-E9BD-4D2A-9EE6-1D47CF020577}.Debug|x64.Build.0 = Debug|x64
+		{9BD8A3FC-E9BD-4D2A-9EE6-1D47CF020577}.Debug|x86.ActiveCfg = Debug|Win32
+		{9BD8A3FC-E9BD-4D2A-9EE6-1D47CF020577}.Debug|x86.Build.0 = Debug|Win32
+		{9BD8A3FC-E9BD-4D2A-9EE6-1D47CF020577}.Release|x64.ActiveCfg = Release|x64
+		{9BD8A3FC-E9BD-4D2A-9EE6-1D47CF020577}.Release|x64.Build.0 = Release|x64
+		{9BD8A3FC-E9BD-4D2A-9EE6-1D47CF020577}.Release|x86.ActiveCfg = Release|Win32
+		{9BD8A3FC-E9BD-4D2A-9EE6-1D47CF020577}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35A53FFD-F28C-4532-9021-71AB6CC06914}
+	EndGlobalSection
+EndGlobal

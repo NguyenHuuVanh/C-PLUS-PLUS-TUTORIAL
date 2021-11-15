@@ -1,0 +1,4 @@
+﻿  kiemtrasochanmatran.cpp
+C:\Users\Administrator\source\repos\kiemtrasochanmatran\kiemtrasochanmatran\kiemtrasochanmatran.cpp(47,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Administrator\source\repos\kiemtrasochanmatran\kiemtrasochanmatran\kiemtrasochanmatran.cpp(47,6): warning C4101: 'i': unreferenced local variable
+  kiemtrasochanmatran.vcxproj -> C:\Users\Administrator\source\repos\kiemtrasochanmatran\Debug\kiemtrasochanmatran.exe

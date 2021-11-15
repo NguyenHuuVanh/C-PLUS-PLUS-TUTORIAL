@@ -1,0 +1,4 @@
+﻿  kiemtraSNT.cpp
+C:\Users\Administrator\source\repos\mang2chieu\mang2chieu\kiemtraSNT.cpp(71,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Administrator\source\repos\mang2chieu\mang2chieu\kiemtraSNT.cpp(71,6): warning C4101: 'i': unreferenced local variable
+  mang2chieu.vcxproj -> C:\Users\Administrator\source\repos\mang2chieu\Debug\mang2chieu.exe

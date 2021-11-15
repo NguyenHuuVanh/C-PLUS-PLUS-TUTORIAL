@@ -1,0 +1,3 @@
+﻿  OctToDec.c
+C:\Users\Administrator\source\repos\Bin2toDec\Bin2toDec\OctToDec.c(10,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Bin2toDec.vcxproj -> C:\Users\Administrator\source\repos\Bin2toDec\Debug\Bin2toDec.exe

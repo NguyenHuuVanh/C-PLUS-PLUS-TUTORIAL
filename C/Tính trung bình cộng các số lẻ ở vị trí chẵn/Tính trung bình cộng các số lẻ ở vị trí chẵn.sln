@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tính trung bình cộng các số lẻ ở vị trí chẵn", "Tính trung bình cộng các số lẻ ở vị trí chẵn\Tính trung bình cộng các số lẻ ở vị trí chẵn.vcxproj", "{CF066B5E-E0AA-406F-9A54-D09A0658EFAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF066B5E-E0AA-406F-9A54-D09A0658EFAD}.Debug|x64.ActiveCfg = Debug|x64
+		{CF066B5E-E0AA-406F-9A54-D09A0658EFAD}.Debug|x64.Build.0 = Debug|x64
+		{CF066B5E-E0AA-406F-9A54-D09A0658EFAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF066B5E-E0AA-406F-9A54-D09A0658EFAD}.Debug|x86.Build.0 = Debug|Win32
+		{CF066B5E-E0AA-406F-9A54-D09A0658EFAD}.Release|x64.ActiveCfg = Release|x64
+		{CF066B5E-E0AA-406F-9A54-D09A0658EFAD}.Release|x64.Build.0 = Release|x64
+		{CF066B5E-E0AA-406F-9A54-D09A0658EFAD}.Release|x86.ActiveCfg = Release|Win32
+		{CF066B5E-E0AA-406F-9A54-D09A0658EFAD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DB05B1B-5CF2-4AE7-A269-679E730A3706}
+	EndGlobalSection
+EndGlobal
